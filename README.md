@@ -90,7 +90,7 @@
 </br>
 
 ## ⛓️ 시스템 아키텍처
-![image](https://cdn.discordapp.com/attachments/1369468548518514778/1370336052447019048/babLog_architecture_end.png?ex=681f2066&is=681dcee6&hm=a22c7ef44b97ec74d6dec223a8fad6639e5fd0d09256a3daeeccb15f23bed33e&)
+![Image](https://github.com/user-attachments/assets/9216e86b-8706-46be-a488-38fb7a845bb3)
 
 </br>
 
